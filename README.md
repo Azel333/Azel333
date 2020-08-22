@@ -33,8 +33,8 @@
 
 <summary>:zap: Github Stats & Languages</summary>
 
-  <img align="left" alt="Azel Github Stats" src="https://github-readme-stats.vercel.app/api?username=Irwan333&show_icons=true&theme=dracula" />
-  <img align="left" alt="Azel Github Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irwan333" />
+  <img align="left" alt="Azel Github Stats" src="https://github-readme-stats.vercel.app/api?username=Azel333&show_icons=true&theme=dracula" />
+  <img align="left" alt="Azel Github Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azel333" />
 
 
 [facebook]: https://facebook.com/irwandi.wahyudi.1
