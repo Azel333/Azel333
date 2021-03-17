@@ -10,8 +10,6 @@
 [<img align="left" alt="Azel Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Azel Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Azel LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Azel Wattpad" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wattpad.svg" />][wattpad]
-
 <br />
 
 ### Languages and Tools:
